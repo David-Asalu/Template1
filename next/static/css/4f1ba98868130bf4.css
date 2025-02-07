@@ -46818,3 +46818,6 @@ footer .footer_logo-text {
 p.mb-0 {
     font-weight: 300 !important;
 }
+body{
+	overflow-x: hidden!important!
+}
