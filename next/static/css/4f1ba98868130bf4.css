@@ -35357,10 +35357,11 @@ video {
 }
 
 .header-area2 {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
+    background-color: black;
     z-index: 2;
     display: flex;
     justify-content: space-between;
